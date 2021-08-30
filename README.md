@@ -25,8 +25,8 @@ Citation:
 
 @Article{icas21_unimi,
     author = {M. Abukmeil and A. Genovese and V. Piuri and F. Rundo and F. Scotti},
-    booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
     title = {Towards explainable semantic segmentation for autonomous driving systems by multi-scale variational attention},
+    booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
     address = {Montreal, Canada},
     pages = {1-5},
     month = {August},
@@ -34,15 +34,14 @@ Citation:
     year = {2021},
     note = {Accepted},}
     
-    @InProceedings {tifs19,
-	author = {A. Genovese and V. Piuri and K. N. Plataniotis and F. Scotti},
-	title = {PalmNet: Gabor-PCA Convolutional Networks for Touchless Palmprint Recognition},
-	journal = {IEEE Transactions on Information Forensics and Security},
-	volume={14}, 
-	number={12}, 
-	pages={3160-3174}, 
-	doi={10.1109/TIFS.2019.2911165}, 
-	ISSN={1556-6013}, 
-	month={December},}
+    @InProceedings {icas21_unimi,
+	author = {M. Abukmeil and A. Genovese and V. Piuri and F. Rundo and F. Scotti},
+	title = {Towards explainable semantic segmentation for autonomous driving systems by multi-scale variational attention},
+        booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
+	address = {Montreal, Canada},
+    pages = {1-5},
+    month = {August},
+    day = {11-13},
+    year = {2021},}
 
 
