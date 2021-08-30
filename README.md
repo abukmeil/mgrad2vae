@@ -15,3 +15,24 @@ Project page:
 
 https://iebil.di.unimi.it/mgradvae/index.htm
 
+
+# Outline:
+
+![outline](https://user-images.githubusercontent.com/50661098/131345520-75f49468-c613-406c-8184-a53fba63e94f.jpg)
+
+
+Citation:
+
+@InProceedings {icas21_unimi,
+    author = {M. Abukmeil and A. Genovese and V. Piuri
+and F. Rundo and F. Scotti},
+    booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
+    title = {Towards explainable semantic segmentation for autonomous driving systems by multi-scale variational attention},
+    address = {Montreal, Canada},
+    pages = {1-5},
+    month = {August},
+    day = {11-13},
+    year = {2021},
+    note = {Accepted}
+}
+
