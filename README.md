@@ -23,7 +23,7 @@ https://iebil.di.unimi.it/mgradvae/index.htm
 
 Citation:
 
-@InProceedings {icas21_unimi,
+@InProceedings{icas21_unimi,
     author = {M. Abukmeil and A. Genovese and V. Piuri
 and F. Rundo and F. Scotti},
     booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
@@ -33,6 +33,5 @@ and F. Rundo and F. Scotti},
     month = {August},
     day = {11-13},
     year = {2021},
-    note = {Accepted}
-}
+    note = {Accepted},}
 
