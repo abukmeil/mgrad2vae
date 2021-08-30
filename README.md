@@ -44,6 +44,17 @@ https://iebil.di.unimi.it/mgradvae/index.htm
 
 Main files:
 
-	*MgradVAE.ipynb: main file
+	• MgradVAE.ipynb: main file
+
+
+The databases used in the paper can be obtained at:
+
+SYNTHIA
+
+https://synthia-dataset.net/
+
+A2D2
+
+https://www.a2d2.audi/a2d2/en.html
 
 
