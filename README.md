@@ -44,6 +44,6 @@ https://iebil.di.unimi.it/mgradvae/index.htm
 
 Main files:
 
-launch_MgradVAE.ipynb: main file
+	*MgradVAE.ipynb: main file
 
 
