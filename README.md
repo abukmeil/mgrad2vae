@@ -3,9 +3,11 @@ Explainable autonomous driving systems (EADS) are emerging recently as a combina
 
 
 Python source code for the paper:
+
 M. Abukmeil, A. Genovese, V. Piuri, F. Rundo, and F. Scotti, "Towards explainable semantic segmentation for autonomous driving systems by multi-scale variational attention", in Proc. of the 1st  IEEE Int. Conf. on Autonomous Systems (ICAS 2021), Montreal, Canada, August 11-13, 2021, pp. 1-5 
 
 
 Project page:
+
 https://iebil.di.unimi.it/mgradvae/index.htm
 
