@@ -30,13 +30,22 @@ https://iebil.di.unimi.it/mgradvae/index.htm
 
     
 @InProceedings {icas21_unimi,
+
 	author = {M. Abukmeil and A. Genovese and V. Piuri and F. Rundo and F. Scotti},
+	
 	title = {Towards explainable semantic segmentation for autonomous driving systems by multi-scale variational attention},
+	
 	booktitle = {Proc. of the 1st IEEE Int. Conf. on Autonomous Systems (ICAS 2021)},
+	
 	address = {Montreal, Canada},
+	
 	pages = {1-5},
+	
 	month = {August},
+	
 	day = {11-13},
+	
 	year = {2021},}
+	
 
 
